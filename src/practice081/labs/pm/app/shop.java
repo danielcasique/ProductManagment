@@ -27,7 +27,7 @@ import practice081.labs.pm.data.Rating;
  *
  * @author daniel.casique
  *
- * Refers: Practice 9-1: Organize Products and Reviews into a HashMap			
+ * Refers: Practice 8-1: Allow Multiple Reviews for a Product						
  */
 public class shop {
 
