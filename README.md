@@ -1,8 +1,5 @@
 # ProductManagment
 
-##### Table of Contents  
-[To run on netbeans](#to-run-on-netbeans) 
-
 ## To run on netbeans 
 
 1. Go to File
