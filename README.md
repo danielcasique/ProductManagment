@@ -1,7 +1,7 @@
 # ProductManagment
 
 ##### Table of Contents  
-[to-run-on-netbeans](# To run on netbeans) 
+[To run on netbeans](#to-run-on-netbeans) 
 
 <a name="to-run-on-netbeans"/> 
 ## To run on netbeans 
