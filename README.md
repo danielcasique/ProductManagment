@@ -23,4 +23,4 @@
 
 9. Clic on run button.
 
-![Step 9](https://github.com/danielcasique/ProductManagment/blob/master/images/run_netbeans_004.png?raw=true)
+![Step 9](https://github.com/danielcasique/ProductManagment/blob/master/images/run_netbeans_005.png?raw=true)
