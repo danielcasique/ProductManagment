@@ -1,3 +1,5 @@
-# Practice 10-1: Refactor ProductManger to use a Nested Class
+# Practice 10-1: Refactor ProductManager to use a Nested Class
 
+Important note:
+* You need to repeat the steps for running the project on NetBeans [Here](https://github.com/danielcasique/ProductManagment/blob/master/README.md#to-run-on-netbeans)
 
