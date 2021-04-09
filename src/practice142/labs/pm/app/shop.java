@@ -37,9 +37,10 @@ import practice142.labs.pm.data.Product;
  *
  * @author daniel.casique
  *
- * Refers: Practice 14-2: Ensure ProductManager Memory Safety Practice 14-3:
- * Simulate Concurrent Callers…Part 1 Practice 14-3: Simulate Concurrent
- * Callers…Part 2
+ * Refers to: 
+ * Practice 14-2: Ensure ProductManager Memory Safety 
+ * Practice 14-3: Simulate Concurrent Callers…Part 1 
+ * Practice 14-3: Simulate Concurrent Callers…Part 2
  */
 public class shop {
 
